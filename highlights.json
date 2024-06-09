@@ -1,0 +1,298 @@
+{
+    "status": "success",
+    "results": [
+        {
+            "count": 7,
+            "rank": 0.1,
+            "text": "squared error",
+            "timestamps": [
+                {
+                    "start": 219278,
+                    "end": 220006
+                },
+                {
+                    "start": 231014,
+                    "end": 231814
+                },
+                {
+                    "start": 246814,
+                    "end": 247734
+                },
+                {
+                    "start": 253228,
+                    "end": 254252
+                },
+                {
+                    "start": 263796,
+                    "end": 264604
+                },
+                {
+                    "start": 284612,
+                    "end": 285228
+                },
+                {
+                    "start": 323744,
+                    "end": 324544
+                }
+            ]
+        },
+        {
+            "count": 6,
+            "rank": 0.09,
+            "text": "mean squared error",
+            "timestamps": [
+                {
+                    "start": 230590,
+                    "end": 231814
+                },
+                {
+                    "start": 246414,
+                    "end": 247734
+                },
+                {
+                    "start": 252860,
+                    "end": 254252
+                },
+                {
+                    "start": 263540,
+                    "end": 264604
+                },
+                {
+                    "start": 284428,
+                    "end": 285228
+                },
+                {
+                    "start": 323504,
+                    "end": 324544
+                }
+            ]
+        },
+        {
+            "count": 7,
+            "rank": 0.09,
+            "text": "loss function",
+            "timestamps": [
+                {
+                    "start": 13478,
+                    "end": 14422
+                },
+                {
+                    "start": 15358,
+                    "end": 15870
+                },
+                {
+                    "start": 22078,
+                    "end": 22694
+                },
+                {
+                    "start": 27982,
+                    "end": 29194
+                },
+                {
+                    "start": 34078,
+                    "end": 34590
+                },
+                {
+                    "start": 255460,
+                    "end": 256580
+                },
+                {
+                    "start": 322376,
+                    "end": 323176
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.08,
+            "text": "mean absolute error and mean bias error",
+            "timestamps": [
+                {
+                    "start": 327704,
+                    "end": 329720
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.08,
+            "text": "red line",
+            "timestamps": [
+                {
+                    "start": 127990,
+                    "end": 128374
+                },
+                {
+                    "start": 147012,
+                    "end": 147404
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "support vector machine loss",
+            "timestamps": [
+                {
+                    "start": 380286,
+                    "end": 381614
+                }
+            ]
+        },
+        {
+            "count": 6,
+            "rank": 0.07,
+            "text": "data points",
+            "timestamps": [
+                {
+                    "start": 91462,
+                    "end": 91982
+                },
+                {
+                    "start": 136084,
+                    "end": 136620
+                },
+                {
+                    "start": 162998,
+                    "end": 163590
+                },
+                {
+                    "start": 164190,
+                    "end": 164702
+                },
+                {
+                    "start": 228622,
+                    "end": 229366
+                },
+                {
+                    "start": 244542,
+                    "end": 245158
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "activation functions",
+            "timestamps": [
+                {
+                    "start": 6878,
+                    "end": 8014
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "regression problems",
+            "timestamps": [
+                {
+                    "start": 317664,
+                    "end": 318520
+                }
+            ]
+        },
+        {
+            "count": 6,
+            "rank": 0.06,
+            "text": "linear regression",
+            "timestamps": [
+                {
+                    "start": 88230,
+                    "end": 89270
+                },
+                {
+                    "start": 171822,
+                    "end": 172710
+                },
+                {
+                    "start": 233622,
+                    "end": 234534
+                },
+                {
+                    "start": 248262,
+                    "end": 249078
+                },
+                {
+                    "start": 250052,
+                    "end": 250748
+                },
+                {
+                    "start": 251772,
+                    "end": 252756
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.06,
+            "text": "classification problems",
+            "timestamps": [
+                {
+                    "start": 333042,
+                    "end": 334186
+                },
+                {
+                    "start": 376062,
+                    "end": 377606
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "SVM loss",
+            "timestamps": [
+                {
+                    "start": 381830,
+                    "end": 382654
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.06,
+            "text": "error function",
+            "timestamps": [
+                {
+                    "start": 37014,
+                    "end": 37950
+                },
+                {
+                    "start": 67154,
+                    "end": 68174
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "binary classification",
+            "timestamps": [
+                {
+                    "start": 334850,
+                    "end": 335930
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.06,
+            "text": "machine learning",
+            "timestamps": [
+                {
+                    "start": 169630,
+                    "end": 170174
+                },
+                {
+                    "start": 289212,
+                    "end": 289804
+                },
+                {
+                    "start": 357522,
+                    "end": 358034
+                }
+            ]
+        }
+    ]
+}
