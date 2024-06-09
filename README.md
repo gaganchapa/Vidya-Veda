@@ -23,6 +23,6 @@ This project proposes an innovative mobile application that leverages Generative
    ```
 6. Run Streamlit App
    ```
-   streamlir run video.py
+   streamlit run video.py
    ```
    
