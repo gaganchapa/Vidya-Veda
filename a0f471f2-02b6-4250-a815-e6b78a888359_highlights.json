@@ -1,0 +1,194 @@
+{
+    "status": "success",
+    "results": [
+        {
+            "count": 2,
+            "rank": 0.1,
+            "text": "similar companies",
+            "timestamps": [
+                {
+                    "start": 120232,
+                    "end": 121244
+                },
+                {
+                    "start": 131240,
+                    "end": 132184
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.09,
+            "text": "large language models",
+            "timestamps": [
+                {
+                    "start": 45210,
+                    "end": 46266
+                },
+                {
+                    "start": 92162,
+                    "end": 93314
+                },
+                {
+                    "start": 99874,
+                    "end": 100690
+                }
+            ]
+        },
+        {
+            "count": 3,
+            "rank": 0.08,
+            "text": "different kind",
+            "timestamps": [
+                {
+                    "start": 82502,
+                    "end": 82966
+                },
+                {
+                    "start": 98002,
+                    "end": 98426
+                },
+                {
+                    "start": 174500,
+                    "end": 175020
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.08,
+            "text": "several other use cases",
+            "timestamps": [
+                {
+                    "start": 194564,
+                    "end": 195764
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.08,
+            "text": "traditional machine learning models",
+            "timestamps": [
+                {
+                    "start": 3998,
+                    "end": 5598
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "different angles",
+            "timestamps": [
+                {
+                    "start": 133816,
+                    "end": 134504
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "other data",
+            "timestamps": [
+                {
+                    "start": 173580,
+                    "end": 174356
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.07,
+            "text": "AI developer tools",
+            "timestamps": [
+                {
+                    "start": 64318,
+                    "end": 65446
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "company websites",
+            "timestamps": [
+                {
+                    "start": 111778,
+                    "end": 112818
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.06,
+            "text": "enterprise software",
+            "timestamps": [
+                {
+                    "start": 63382,
+                    "end": 64262
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.05,
+            "text": "respective companies",
+            "timestamps": [
+                {
+                    "start": 147012,
+                    "end": 148084
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.05,
+            "text": "generative AI",
+            "timestamps": [
+                {
+                    "start": 18182,
+                    "end": 18830
+                }
+            ]
+        },
+        {
+            "count": 2,
+            "rank": 0.05,
+            "text": "human",
+            "timestamps": [
+                {
+                    "start": 183860,
+                    "end": 184044
+                },
+                {
+                    "start": 193068,
+                    "end": 193292
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.05,
+            "text": "leading companies",
+            "timestamps": [
+                {
+                    "start": 32690,
+                    "end": 33962
+                }
+            ]
+        },
+        {
+            "count": 1,
+            "rank": 0.05,
+            "text": "data tools",
+            "timestamps": [
+                {
+                    "start": 65470,
+                    "end": 66086
+                }
+            ]
+        }
+    ]
+}
